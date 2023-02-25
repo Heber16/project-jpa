@@ -9,6 +9,8 @@
 		<provider>org.hibernate.jpa.HibernatePersistenceProvider</provider>
 
 		<class>com.buenmaestro.projectjpa.entity.Disquera</class>
+		<class>com.buenmaestro.projectjpa.entity.SubGenero</class>
+		<class>com.buenmaestro.projectjpa.entity.Genero</class>
 
 		<properties>
 			<property name="javax.persistence.jdbc.driver"
